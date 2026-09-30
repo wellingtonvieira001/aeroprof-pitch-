@@ -1,23 +1,24 @@
 # ✈️ AeroProf
 
-### Infrastructure Intelligence for Airports
+### **Infrastructure Intelligence for Airports**
 
-**AeroProf** é uma plataforma desenvolvida pela **DWELL Sistemas para Internet** para apoiar a inspeção, gestão e manutenção da infraestrutura aeroportuária.
+**AeroProf** é uma plataforma desenvolvida pela **DWELL Sistemas para Internet** para apoiar a inspeção, diagnóstico, gestão e manutenção de infraestrutura aeroportuária.
 
-A solução busca transformar dados de inspeção e engenharia em **informações estruturadas e evidências rastreáveis**, apoiando decisões sobre manutenção, condição dos ativos e priorização de intervenções.
+A solução integra **dados de engenharia, inspeções, sensores, tecnologias de campo, informações geoespaciais e Inteligência Artificial**, transformando dados técnicos em **informações estruturadas, georreferenciadas e rastreáveis** para apoiar decisões sobre condição dos ativos, manutenção e priorização de intervenções.
 
 ---
 
 ## 🎯 O problema
 
-A infraestrutura aeroportuária exige inspeção e acompanhamento contínuos.
+A infraestrutura aeroportuária exige inspeção, diagnóstico e acompanhamento contínuos.
 
-Informações provenientes de inspeções, ensaios, levantamentos e manutenção podem estar distribuídas entre diferentes sistemas, documentos e fontes de dados.
+Dados provenientes de inspeções, ensaios, levantamentos, sensores e manutenção frequentemente estão distribuídos entre diferentes sistemas, documentos e fontes.
 
-Essa fragmentação dificulta:
+Essa fragmentação pode dificultar:
 
 - acompanhamento da condição dos ativos;
 - identificação e evolução de anomalias;
+- localização precisa de ocorrências;
 - priorização da manutenção;
 - rastreabilidade das intervenções;
 - auditoria e fiscalização;
@@ -27,86 +28,113 @@ Essa fragmentação dificulta:
 
 ## 💡 A solução
 
-O AeroProf cria uma visão integrada e georreferenciada da infraestrutura aeroportuária.
+O AeroProf cria uma **visão integrada e georreferenciada da infraestrutura**, conectando dados de inspeção, diagnóstico e manutenção.
 
 A plataforma foi concebida para integrar informações provenientes de tecnologias e métodos como:
 
-**GIS • Drones • LiDAR • GPR • HWD/FWD • Engenharia • Inteligência Artificial**
+**GIS • Drones • LiDAR • GPR • TDR • HWD/FWD • Sensores • Engenharia • Inteligência Artificial**
 
 A tecnologia é o meio.
 
 O objetivo é transformar:
 
-**Inspeção → Evidência → Análise → Prioridade → Decisão → Manutenção**
+### **Inspeção → Evidência → Análise → Localização → Prioridade → Decisão → Manutenção**
 
 ---
 
 ## 🔎 Diferenciais
 
-### Infraestrutura georreferenciada
-Informações associadas ao aeroporto, ativo e localização correspondente.
+### 🌐 Infraestrutura georreferenciada
+Informações associadas ao aeroporto, ativo, segmento e localização física correspondente.
 
-### Engenharia + Inteligência Artificial
-Métodos de engenharia combinados com inteligência artificial como apoio à análise e à tomada de decisão.
+### 🧠 Engenharia + Inteligência Artificial
+Métodos de engenharia combinados com IA para apoiar análise, correlação de dados e tomada de decisão.
 
-### Rastreabilidade
+### 📍 Diagnóstico e localização
+Integração de dados de diagnóstico, como TDR, com GIS e cadastro de ativos para estimar a localização física de anomalias.
+
+### 📊 Rastreabilidade
 Histórico de inspeções, condições, anomalias, evidências e intervenções.
 
-### Visão integrada
-Inspeção, engenharia e manutenção conectadas em uma única plataforma.
+### 🔗 Visão integrada
+Inspeção, diagnóstico, engenharia e manutenção conectados em uma mesma arquitetura de informação.
 
 ---
 
 ## 🛫 Estágio atual
 
-**VALIDAÇÃO**
+### **DESENVOLVIMENTO E VALIDAÇÃO**
 
-O AeroProf está em desenvolvimento e preparação para validação em ambiente operacional real.
+O AeroProf encontra-se em fase de desenvolvimento e **validação tecnológica**, com preparação e estruturação de Provas de Conceito (PoCs) junto a potenciais usuários e parceiros tecnológicos.
 
-O próximo grande marco é a realização de **Provas de Conceito (PoCs)** que permitam avaliar a tecnologia, seus métodos e sua aplicação em infraestrutura real.
+Entre as frentes em desenvolvimento estão:
 
----
+**• Inspeção aeroportuária com drones, LiDAR, RTK e visão computacional**
 
-## 🤝 Estamos buscando
+**• Detecção e localização de falhas em circuitos AGL utilizando TDR e GIS**
 
-- Operadores aeroportuários para PoC
-- Parceiros tecnológicos
-- Empresas de engenharia
-- Drones e sensores especializados
-- LiDAR
-- GPR
-- HWD/FWD
-- Infraestrutura cloud e cibersegurança
-- Universidades e ICTs
-- Investidores e parceiros estratégicos
+**• Integração de tecnologias de sensoriamento e diagnóstico**
+
+**• Aplicação de IA para organização, consulta, análise e interpretação de informações técnicas**
+
+As PoCs têm como objetivo gerar **evidências técnicas, resultados mensuráveis e casos de uso replicáveis**.
 
 ---
 
-## 🚀 Primeiro voo
+## 🤝 Ecossistema de inovação
 
-Nosso próximo objetivo é simples:
+Buscamos desenvolver o AeroProf em colaboração com:
 
-### Encontrar os parceiros certos para realizar o primeiro voo do AeroProf.
+- Operadores aeroportuários;
+- Empresas de energia e infraestrutura;
+- Fabricantes de equipamentos;
+- Empresas de engenharia;
+- Empresas de drones e sensores;
+- Fornecedores de LiDAR e GPR;
+- Laboratórios e ICTs;
+- Universidades;
+- Empresas de tecnologia;
+- Investidores e parceiros estratégicos.
+
+A estratégia é combinar **tecnologia própria + conhecimento de engenharia + tecnologias especializadas + ambientes reais de validação**.
 
 ---
 
-## 📊 Investor Pitch
+## 🚀 Próximo marco
 
-Este repositório contém materiais de apresentação do **AeroProf** para investidores, parceiros tecnológicos, operadores aeroportuários e programas de inovação.
+### **Validar em ambiente real.**
 
-> **AeroProf transforma dados de inspeção e engenharia em evidências rastreáveis para apoiar decisões sobre a infraestrutura aeroportuária.**
+Nosso próximo objetivo é transformar as POCs em **evidências técnicas, casos de uso e soluções replicáveis**, começando pela infraestrutura aeroportuária e ampliando posteriormente para outros segmentos de infraestrutura crítica.
+
+---
+
+## 🌎 Potencial de escala
+
+A arquitetura do AeroProf foi concebida para permitir a aplicação da metodologia em diferentes ativos e ambientes de infraestrutura crítica.
+
+Após a validação dos primeiros casos de uso, a estratégia é explorar oportunidades no **Brasil e na América Latina**, por meio de parceiros tecnológicos, operadores, empresas de engenharia e canais comerciais.
+
+---
+
+## 📊 Investor & Innovation Pitch
+
+O AeroProf está sendo desenvolvido como uma plataforma de inteligência aplicada à infraestrutura, conectando:
+
+**Dados + Engenharia + IA + Georreferenciamento + Diagnóstico + Manutenção**
+
+> **AeroProf transforma dados de inspeção e engenharia em evidências rastreáveis para apoiar decisões sobre infraestrutura aeroportuária.**
 
 ---
 
 ## 🏢 Empresa
 
 **DWELL Sistemas para Internet**  
-**CNPJ:** 68.123.423/0001-32    
+**CNPJ:** 68.123.423/0001-32  
 **Produto:** AeroProf  
 **Brasil 🇧🇷**
 
 ---
 
-### AeroProf
+# AeroProf
 
-**From inspection to decision.**
+### **From inspection to decision.**
